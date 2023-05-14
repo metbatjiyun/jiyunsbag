@@ -1,0 +1,58 @@
+body {
+	background: #white;
+}
+ #oval {
+      width: 200px;
+      height: 100px;
+         top: 403px;
+    left: 636px;
+    position: absolute;
+      background: #c1d0ff;
+      border-radius: 100px / 50px;
+    }
+    #circle {
+ width: 300px;
+    height: 300px;
+    top: 77px;
+    left: 168px;
+    position: absolute;
+  background: #c1d0ff;
+  border-radius: 50%
+
+}
+ #circletwo {
+width: 296px;
+    height: 296px;
+    top: 79px;
+    left: 170px;
+        position: absolute;
+  background: white;
+    border-radius: 50%
+
+}
+#align {
+	display: flex;
+  align-items: center;
+  justify-content: center;	
+  height: 100vh;
+
+}
+
+#star {
+ width: 7px;
+    height: 119px;
+    background: #93f174;
+    top: 52px;
+    left: 318px;
+    position: absolute;
+    transform: rotate( 355deg );
+    }
+    #startwo {
+ width: 7px;
+    height: 119px;
+    background: #93f174;
+    top: 64px;
+    left: 281px;
+    position: absolute;
+    transform: rotate( 335deg );
+    }
